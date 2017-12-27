@@ -26,4 +26,5 @@ def find_the_cheese(strings)
   end
   if i = cheese_types.length
     nil
+  end
 end
